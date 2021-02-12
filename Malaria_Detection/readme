@@ -1,1 +1,9 @@
 Malaria Detection
+Step 1:
+Download the dataset from 
+
+Step 2:
+Run the gen_dataset.py to read cell images and generate the CSV file for training and test data
+
+Step 3:
+Run malaria_detection.py to detect the infected cells
