@@ -1,0 +1,10 @@
+Project Description
+
+Create a web application that:
+
+    Allows a person to sign in using Google authentication
+    Let’s a user enter information about their friends and their birthday. For example, upon signing in, I can specify my friend’s name, friend’s email address and the date of birth. I can do it for as many friends as I want.
+    I should also be able to upload a csv file with three columns (name, email, date of birth). This way, I can batch upload a list of friends with their birthday.
+    I should get an email reminder about a friend’s birthday 24-48 hours in advance.
+    I should be able to search for a friend’s entry by entering the friends name or email address.
+    Deploy it on AWS using their free tier. Use docker image for your code. Collect all logs and send them to papertrail service (use free tier).
